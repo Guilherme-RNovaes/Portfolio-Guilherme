@@ -803,6 +803,10 @@ img {
     margin-bottom: .5rem;
   }
   
+  .contact__container{
+    padding: 0 0 0 2.5rem;
+  }
+  
   .footer__social-link{
     font-size: 1.25rem;
     padding: .4rem;
